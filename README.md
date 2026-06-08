@@ -8,7 +8,7 @@ This project analyzes pizza sales data using SQL Server (SSMS) and Excel. The ob
 ## Tools Used
 
 * SQL Server Management Studio (SSMS)
-* SQL (T-SQL)
+* SQL
 * Microsoft Excel
 * Pivot Tables
 * Pivot Charts
